@@ -71,13 +71,15 @@ Dosya bulunduğun klasöre kaydedilir
 Program tamamen yerel çalışır. Hiçbir bilgi dışarıya gönderilmez.
 SMTP protokolü üzerinden direkt kontrol yapılır.
 
-İstersen bu kullanım açıklamasını README.md içine yerleştirebilirim. Ayrıca İngilizce versiyonunu da istersen hazırlayabilirim. Hazır mısın?
+İstersen bu kullanım açıklamasını README.md içine yerleştirebilirim. 
+Ayrıca İngilizce versiyonunu da istersen hazırlayabilirim. Hazır mısın?
 
 Şunu dedin:
 evet
 ChatGPT:
 
-Harika! İşte sana tam anlamıyla profesyonel, kullanıcı dostu ve GitHub’da paylaşmaya hazır bir README.md içeriği (Türkçe ve İngilizce destekli):
+Harika! İşte sana tam anlamıyla profesyonel, 
+kullanıcı dostu ve GitHub’da paylaşmaya hazır bir README.md içeriği (Türkçe ve İngilizce destekli):
 
 📝 README.md (Hotmail Checker Pro v2.0)
 # 🚀 Hotmail Checker Pro v2.0
